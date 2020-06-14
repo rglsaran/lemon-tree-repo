@@ -1,7 +1,7 @@
 Lemon Tea;
 Hot lemon tea;
 Cold lemon tea;
-Lemon honey tea;
+Lemon with honey tea;
 Lemon ginger tea;
 Milk tea without lemon;
 Lemon green tea without sugar;
